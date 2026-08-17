@@ -128,5 +128,5 @@ A SvelteKit-based project demonstrating create, read, update, and delete operati
 
 ## 📫 Contact Information
 
-- Email: maninageswar@gmail.com
+- Email: maninageswarv@gmail.com
 - LinkedIn: [mani-nageswar](https://www.linkedin.com/in/mani-nageswar-28a49b19b/)
